@@ -1,43 +1,17 @@
-# Learning template [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://github.com/hchiam/learning-template/blob/main/LICENSE)
+# Learning SuperTokens
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
-https://supertokens.com
+Authentication frontend talks with backend talks with SuperTokens core talks with your database. Do things like login and/or session management.
 
 https://github.com/supertokens
 
 https://github.com/supertokens/supertokens-core
 
-## From scratch
+Recipes: https://supertokens.com/docs/guides
 
-Using [`yarn`](https://github.com/hchiam/learning-yarn):
+- like this example email-only password login: https://supertokens.com/docs/emailpassword/introduction
 
-```bash
-yarn add
-```
+React examples: https://github.com/supertokens/supertokens-auth-react/tree/master/examples
 
-Or with `npm`:
-
-```bash
-npm install
-```
-
-And then:
-
-```bash
-
-```
-
-## Starting by testing out this repo <!-- Replace "template"s and "# and then ..."s in this section -->
-
-Using [`yarn`](https://github.com/hchiam/learning-yarn): (triple-click to select all)
-
-```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && yarn; # and then ...
-```
-
-Or with `npm`: (triple-click to select all)
-
-```bash
-git clone https://github.com/hchiam/learning-template.git && cd learning-template && npm install; # and then ...
-```
+- like this example node + react: https://github.com/supertokens/supertokens-auth-react/tree/master/examples/with-emailpassword
